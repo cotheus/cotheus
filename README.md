@@ -1,5 +1,3 @@
-<img src="banner.png" alt="github banner" width="100%"/>
-
 # Olá, me chamo Matheus 👋
 🎓Formado em Administração<br>
 💻Cursando Análise e Desenvolvimento de Sistemas<br>
